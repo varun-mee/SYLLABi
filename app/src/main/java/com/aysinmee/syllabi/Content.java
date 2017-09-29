@@ -44,11 +44,14 @@ public class Content extends AppCompatActivity {
         else if(sub==3){
             is = this.getResources().openRawResource(R.raw.sem1_sub3);
         }
+        else if(sub==4){
+            is = this.getResources().openRawResource(R.raw.sem1_sub4);
+        }
         else if(sub==5){
             is = this.getResources().openRawResource(R.raw.sem1_sub5);
         }
         else{
-            is = this.getResources().openRawResource(R.raw.sem1_sub5);
+            is = this.getResources().openRawResource(R.raw.notext);
         }
 
         String data = "";
