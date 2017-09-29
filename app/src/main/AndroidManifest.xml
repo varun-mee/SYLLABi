@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Semester" />
-        <activity android:name=".Subjects"></activity>
+        <activity android:name=".Subjects" />
+        <activity android:name=".Content"></activity>
     </application>
 
 </manifest>
