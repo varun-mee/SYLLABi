@@ -1,0 +1,43 @@
+UNIT – I
+
+[ INTRODUCTION TO 'C' LANGUAGE ]
+
+History, Structures of ‘C’ Programming, Function as building blocks.
+
+[ LANGUAGE FUNDAMENTALS ]
+
+Character set, C Tokens, Keywords, Identifiers, Variables, Constant, Data Types, Comments.
+
+|UNIT – II
+
+[ Operators ]
+
+Types of operators, Precedence and Associativity, Expression, Statement and types of statements
+
+[ BUILD IN OPERATORS AND FUNCTION ]
+
+Console based I/O and related built in I/O function: printf(),scanf(), getch(), getchar(), putchar(); Concept of header files, Preprocessor directives: #include, #define.
+
+|UNIT– III
+
+[ CONTROL STRUCTURES ]
+
+Decision making structures: If, If-else, Nested If-else, Switch; Loop Control structures: While, do while, for, Nested for loop; Other statements: break, continue, goto, exit.
+
+|UNIT– IV
+
+[ INTRODUCTION TO PROBLEM SOLVING ]
+
+Concept: problem solving, Problem solving techniques (Trail & Error, Brain Storming, Divide & Conquer) Steps in problem solving (Define Problem, Analyze Problem, Explore Solution) Algorithms and Flowcharts (Definitions, Symbols), Characteristics of an algorithm Conditionals in pseudo-code, Loops in pseudo code Time complexity: Big-Oh notation, efficiency Simple Examples: Algorithms and flowcharts (Real Life Examples)
+
+|UNIT – V
+
+[ SIMPLE ARITHMETIC PROBLEMS ]
+
+Addition / Multiplication of integers, Determining if a number is +ve / -ve / even / odd, Maximum of 2 numbers, 3 numbers, Sum of first n numbers, given n numbers, Integer division, Digit reversing, Table generation for n, ab, Factorial, sine series, cosine series, nCr , Pascal Triangle, Prime number, Factors of a number, Other problems such as Perfect number, GCD numbers etc (Write algorithms and draw flowchart), Swapping
+
+|UNIT-VI
+
+[ FUNCTIONS ]
+
+Basic types of function, Declaration and definition, Function call, Types of function, Parameter passing, Call by value, Call by reference, Scope of variable, Storage classes, Recursion.

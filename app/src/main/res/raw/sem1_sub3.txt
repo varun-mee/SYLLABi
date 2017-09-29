@@ -1,0 +1,29 @@
+UNIT – I[ Introduction to Computers ]
+Introduction, Characteristics of Computers, Block diagram of computer.
+Types of computers and features, Mini Computers, Micro Computers, Mainframe Computers, Super Computers.
+Types of Programming Languages (Machine Languages, Assembly Languages, High Level Languages).
+Data Organisation, Drives, Files, Directories. 
+Types of Memory (Primary And Secondary) RAM, ROM, PROM, EPROM. Secondary Storage Devices (FD, CD, HD, Pen drive)I/O Devices (Scanners, Plotters, LCD, Plasma Display) Number Systems. Introduction to Binary, Octal, Hexadecimal system. 
+Conversion, Simple Addition, Subtraction, Multiplication 
+
+|Unit – II
+
+[ Algorithm and Flowcharts ]
+
+Algorithm: Definition, Characteristics, Advantages and disadvantages, ExamplesFlowchart: Definition, Define symbols of flowchart, Advantages and disadvantages, Examples|UNIT– III
+
+[ Operating System and Services in O.S. ]Dos - History, Files and Directories, Internal and External Commands, Batch Files, Types of O.S.
+
+|UNIT – VI
+
+[ Windows Operating Environment ]
+Features of MS - Windows, Control Panel, Taskbar, Desktop, Windows Application, Icons, Windows Accessories, Notepad, Paintbrush.
+
+|UNIT-V
+
+[ Editors and Word Processors ]
+Basic Concepts, Examples: MS-Word, Introduction to desktop publishing.
+
+|Unit – VI
+
+[ Spreadsheets and Database packages ]Purpose, usage, command, MS-Excel, Creation of files in MS-Access, Switching between application, MS-PowerPoint. 

@@ -1,0 +1,31 @@
+
+UNIT – I
+
+[ DETERMINANTS ]
+
+Definition, Minors, Cofactors, Properties of Determinants MATRICES: Definition, Types of Matrices, Addition, Subtraction, Scalar Multiplication and Multiplication of Matrices, Adjoint, Inverse, Cramers Rule, Rank of Matrix Dependence of Vectors, Eigen Vectors of a Matrix, Caley- Hamilton Theorem (without proof)
+
+|UNIT – II
+
+[ LIMITS & CONTINUITY ]
+
+Limit at a Point, Properties of Limit, Computation of Limits of Various Types of Functions, Continuity at a Point, Continuity Over an Interval, Intermediate Value Theorem, Type of Discontinuities
+
+|UNIT– II
+
+[ DIFFERENTIATION ] 
+
+Derivative, Derivatives of Sum, Differences, Product & Quotients, Chain Rule, Derivatives of Composite Functions, Logarithmic Differentiation, Rolle’s Theorem, Mean Value Theorem, Expansion of Functions (Maclaurin’s & Taylor’s), Indeterminate Forms, L’ Hospitals Rule, Maxima & Minima, Curve Tracing, Successive Differentiation & Liebnitz Theorem.
+
+|UNIT– IV
+
+[ INTEGRATION ]
+
+Integral as Limit of Sum, Fundamental Theorem of Calculus (without proof.), Indefinite Integrals, Methods of Integration Substitution, By Parts, Partial Fractions, Reduction Formulae for Trigonometric Functions, Gamma and Beta Functions(definition).
+
+|UNIT – V
+
+[ VECTOR ALGEBRA ]
+
+Integral as Limit of Sum, Fundamental Theorem of Calculus (without proof.), Indefinite Integrals, Methods of Integration Substitution, By Parts, Partial Fractions, Reduction Formulae for Trigonometric Functions, Gamma and Beta Functions(definition).
+Definition of a vector in 2 and 3 Dimensions; Double and Triple Scalar and Vector Product and physical interpretation of area and volume.
